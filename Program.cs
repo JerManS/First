@@ -10,6 +10,7 @@ namespace NET2laba1
     {
         static void Main(string[] args)
         {
+			bla bla bla
         }
     }
 }
